@@ -2,4 +2,4 @@
 
 This is a demonstration repository to how to use git and GitHub
 
-- Push on GitHub
+`git init` - starts a new project with git
